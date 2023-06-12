@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "T-note",
+    "name": "tnote",
     "version": "0.0.1",
     "description": "A simple note extension to store and organize your notes.",
     "action": {
